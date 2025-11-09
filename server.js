@@ -14,12 +14,12 @@ app.get("/", (req, res) => {
   res.send("Welcome to the Hout Bay Establishments API!");
 });
 
-app.get("api/establishments", (req, res) => {
+app.get("/api/establishments", (req, res) => {
   res.json(establishments);
 });
 
 app.get("/api/establishments/:id", (req, res) => {
-  const id = parseInt(req.params.id);
+  const id = req.params.id; // Keep as string
   const establishment = establishments.find((e) => e.id === id);
   if (establishment) {
     res.json(establishment);
