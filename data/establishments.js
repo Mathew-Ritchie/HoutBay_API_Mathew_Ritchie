@@ -1,8 +1,3 @@
-import bayHarbourMarketImage from "../assets/bay-harbour-market.jpg";
-import casareccio from "../assets/casareccio.webp";
-import marinersWharf from "../assets/mariners-wharf.jpg";
-import beachBar from "../assets/beach-bar.jpg";
-
 const establishments = [
   {
     id: "r1",
