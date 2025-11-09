@@ -10,7 +10,7 @@ const establishments = [
     phoneNumber: "+27 21 790 1100",
     website: "https://www.marinerswharf.co.za/",
     rating: 4.5,
-    imageUrl: marinersWharf,
+    imageUrl: "/mariners-wharf.jpg",
     imageCredit: "Image from Mariner's Wharf Tripadvisor page",
     description: [
       `Mariner's Wharf stands as Africa's first harbour front emporium, a truly unique destination. 
@@ -180,7 +180,7 @@ const establishments = [
     phoneNumber: "+27 21 180 2556",
     website: "https://www.thebeachbarhoutbay.co.za/",
     rating: 4.3,
-    imageUrl: beachBar,
+    imageUrl: "/beach-bar.jpg",
     imageCredit: "Image from The Beach Bar Facebook page",
     description: [
       `The Beach Bar in Hout Bay offers an elevated beachfront dining experience right on the sand,
@@ -339,7 +339,7 @@ const establishments = [
     phoneNumber: "+27 21 790 0200",
     website: "https://casarecciohoutbay.co.za/home",
     rating: 4.5,
-    imageUrl: casareccio,
+    imageUrl: "/casareccio.webp",
     imageCredit: "Photo by Casareccio Cucina Italiana",
     description: [
       `Casareccio Cucina Italiana, located at 4 Main Road in Hout Bay, is a beloved Italian restaurant that warmly embraces its customers as family. This eatery is known for its authentic Italian cuisine with a delightful hint of Portuguese influence, creating a unique and inviting dining experience`,
@@ -441,7 +441,7 @@ const establishments = [
     email: "info@bayharbour.co.za",
     website: "https://www.bayharbour.co.za/",
     rating: 4.4,
-    imageUrl: bayHarbourMarketImage,
+    imageUrl: "/bay-harbour-market.jpg",
     imageCredit: "Image from Bay Harbour Market",
     Description: "",
   },
