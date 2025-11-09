@@ -1,6 +1,6 @@
 import express from "express";
 import cors from "cors";
-import establishments from "./data/establishments";
+import establishments from "./data/establishments.js";
 
 const app = express();
 const PORT = process.env.PORT || 3000;
