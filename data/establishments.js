@@ -147,7 +147,7 @@ const establishments = [
     phoneNumber: "+27 21 790 0001",
     website: "https://fishontherocks.com/",
     rating: 4.3,
-    imageUrl: "/fish-on-the-rocks.jpg",
+    imageUrl: "/fish_on_the_rocks.jpg",
     description: [
       `Fish on the Rocks, located at the far end of Harbour Road in Hout Bay, is an iconic, bustling seafood
         institution renowned for its fresh fish and chips and unparalleled views. Situated right on the edge
@@ -432,7 +432,7 @@ const establishments = [
     email: "info@bayharbour.co.za",
     website: "https://www.bayharbour.co.za/",
     rating: 4.4,
-    imageUrl: "/bay-harbour-market.jpg",
+    imageUrl: "/bay_harbour_market.jpg",
     imageCredit: "Image from Bay Harbour Market",
     Description: "",
   },
