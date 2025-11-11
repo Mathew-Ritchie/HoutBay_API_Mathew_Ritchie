@@ -10,7 +10,7 @@ const establishments = [
     phoneNumber: "+27 21 790 1100",
     website: "https://www.marinerswharf.co.za/",
     rating: 4.5,
-    imageUrl: "/mariners-wharf.jpg",
+    imageUrl: "/mariners_wharf.jpg",
     imageCredit: "Image from Mariner's Wharf Tripadvisor page",
     description: [
       `Mariner's Wharf stands as Africa's first harbour front emporium, a truly unique destination. 
@@ -36,8 +36,7 @@ const establishments = [
     phoneNumber: "+27 21 790 1876",
     website: "http://www.dunesouthbay.co.za",
     rating: 4.2,
-    imageUrl:
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7c/52/e3/dunes-beach-restaurant.jpg?w=900&h=500&s=1",
+    imageUrl: "/dunes.jpg",
     description: [
       `Dunes Beach Restaurant, ideally situated directly on Hout Bay Beach, offers an unparalleled coastal dining 
         experience. Boasting breathtaking panoramic views of Chapman's Peak, the Sentinel, and the expansive beach, 
@@ -62,8 +61,7 @@ const establishments = [
     phoneNumber: "+27 21 790 5648",
     website: "http://www.massimos.co.za",
     rating: 4.8,
-    imageUrl:
-      "https://www.houtbaytourism.com/images/stories/virtuemart/product/IMG_1196-scaled.jpg",
+    imageUrl: "/massimos.jpg",
     description: [
       `Massimo's, nestled in Hout Bay's Oakhurst Farm Park, is a celebrated Italian restaurant renowned for its
          authentic wood-fired pizzas and homemade pasta. Owned by Massimo and Tracy Orione, it's a true slice of 
@@ -91,7 +89,7 @@ const establishments = [
     phoneNumber: "+27 21 790 1036",
     website: "http://www.chapmanspeakhotel.co.za",
     rating: 4.6,
-    imageUrl: "https://www.sa-venues.com/visit/chapmanspeakhotel/10g.jpg",
+    imageUrl: "/chapmanspeak_hotel.jpg",
     description: [
       `The Chapman's Peak Hotel Restaurant, a cherished Hout Bay institution for over 25 years, stands
         majestically at the foot of the iconic Chapman's Peak Drive. It's often hailed as the "grand old lady"
@@ -121,8 +119,7 @@ const establishments = [
     phoneNumber: "+27 21 791 0021",
     website: "https://www.darioscafe.com/",
     rating: 4.1,
-    imageUrl:
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b1/9b/ac/a-fresh-start-a-new-day.jpg?w=900&h=500&s=1",
+    imageUrl: "/darios.jpg",
     description: [
       `Dario's Café is a beloved Italian eatery owned by an authentic Italian couple, offering a true taste
           of Italy with a warm, family-like embrace. This popular spot masterfully combines a vibrant coffee
@@ -150,8 +147,7 @@ const establishments = [
     phoneNumber: "+27 21 790 0001",
     website: "https://fishontherocks.com/",
     rating: 4.3,
-    imageUrl:
-      "https://fireflythetravelguy.travel.blog/wp-content/uploads/2012/04/ddd78-2012_01040306.jpg",
+    imageUrl: "/fish-on-the-rocks.jpg",
     description: [
       `Fish on the Rocks, located at the far end of Harbour Road in Hout Bay, is an iconic, bustling seafood
         institution renowned for its fresh fish and chips and unparalleled views. Situated right on the edge
@@ -180,7 +176,7 @@ const establishments = [
     phoneNumber: "+27 21 180 2556",
     website: "https://www.thebeachbarhoutbay.co.za/",
     rating: 4.3,
-    imageUrl: "/beach-bar.jpg",
+    imageUrl: "/beach_bar.jpg",
     imageCredit: "Image from The Beach Bar Facebook page",
     description: [
       `The Beach Bar in Hout Bay offers an elevated beachfront dining experience right on the sand,
@@ -208,8 +204,7 @@ const establishments = [
     phoneNumber: "+27 21 790 0900",
     website: "https://www.lookouthoutbay.co.za/",
     rating: 4.2,
-    imageUrl:
-      "https://www.lookouthoutbay.co.za/wp-content/uploads/2024/01/Lookout-Deck-Drone-copy-1.jpg",
+    imageUrl: "/lookout_deck.jpg",
     description: [
       `The Lookout Hout Bay, perched dramatically on the water's edge in Hout Bay Harbour,
         boasts arguably one of the most spectacular views in the Western Cape, encompassing
@@ -241,8 +236,7 @@ const establishments = [
     phoneNumber: "+27 60 756 5183",
     website: "https://www.thepelican.co.za/",
     rating: 4.4,
-    imageUrl:
-      "https://lh3.googleusercontent.com/p/AF1QipM5vUyjL0KXM_RNnXZRBM_qa9We3gyjSd89bM7R=s680-w680-h510-rw",
+    imageUrl: "/the_pelican.jpg",
     description: [
       `The Pelican in Hout Bay is a relaxed and friendly restaurant and creperie, with a strong 
         emphasis on excellent coffee and exceptional food. Located conveniently on Victoria Avenue, 
@@ -272,8 +266,7 @@ const establishments = [
     phoneNumber: "+27 21 790 5324",
     website: "https://www.facebook.com/delishbistroHB/",
     rating: 4.6,
-    imageUrl:
-      "https://lh3.googleusercontent.com/p/AF1QipMBpyhhoLDoOD2hvsBHUPjn91hO9uIOALEuSxxE=s680-w680-h510-rw",
+    imageUrl: "/delish.jpg",
     description: [
       `Delish Restaurant, a charming eatery in Hout Bay, is a true "home away from home" for locals 
         and a delightful find for visitors. Run by a hands-on mother and daughter team, it's housed 
@@ -302,7 +295,7 @@ const establishments = [
     phoneNumber: "+27 61 911 5690",
     website: "https://veldtdbe.com/",
     rating: 4.5,
-    imageUrl: "https://www.dining-out.co.za/ftp/gallery/11613--48012.jpg",
+    imageUrl: "/veldt.jpg",
     description: [
       `Veldt Braai Restaurant & Smoke House in Hout Bay is a unique eatery that reimagines South African food traditions with a focus on wood-fired and smoked dishes. This establishment celebrates the essence of "braai" (barbecue) culture, using locally sourced, organic, and grass-fed meats to craft truly authentic flavors.`,
       `The atmosphere is a blend of relaxed rustic charm and modern sleek design, making it appealing for casual diners, families, or even more elegant small parties and private events. Guests can indulge in premium cuts like Karoo lamb, expertly grilled and smoked. To complement the culinary offerings, Veldt boasts a curated selection of local beers on tap and boutique wines from small farms. Beyond the main dishes, the menu also features gourmet burgers, light meals, and other South African-inspired fare.`,
@@ -320,8 +313,7 @@ const establishments = [
     phoneNumber: "+27 84 363 6888",
     website: null,
     rating: 4.1,
-    imageUrl:
-      "https://lh3.googleusercontent.com/p/AF1QipP-Oo1qIcmIirfxP_2CR5vf--6sqgdaRg1gyAYY=s680-w680-h510-rw",
+    imageUrl: "pho_hue_vietnamese.jpg",
     description: [
       `Pho Hue Vietnamese, located on Victoria Avenue in Hout Bay, brings the authentic and vibrant flavors of Vietnam to the Cape Peninsula. This popular eatery is known for its dedication to traditional Vietnamese street food, offering a culinary journey that transports diners straight to the bustling markets of Hanoi or Ho Chi Minh City.`,
       `The star of the show, as the name suggests, is their selection of Pho – rich, aromatic noodle soups available with beef or chicken, prepared with slow-cooked broths that capture the essence of Vietnamese comfort food. Beyond Pho, the menu features a diverse range of Vietnamese delights. Expect to find fresh and crispy spring rolls, both fresh and fried, with various fillings like prawn, chicken, and vegetables. Their Banh Mi (Vietnamese sandwiches) are a popular choice, boasting flavorful fillings in crusty baguettes. Other highlights include delicious dumplings, Korean Fried Chicken wings, and a variety of rice and noodle dishes.`,
@@ -358,8 +350,7 @@ const establishments = [
     phoneNumber: "+27 21 300 0282",
     website: null,
     rating: 4.4,
-    imageUrl:
-      "https://lh3.googleusercontent.com/p/AF1QipPJufto3m-BXoi5bJN8PQiyWHxnHEFeDdXFX8vZ=s680-w680-h510-rw",
+    imageUrl: "/butchers_mermaid.jpg",
     description: [
       `The Butcher's Mermaid in Hout Bay is a unique culinary destination that operates as both a modern, upscale butcher and deli, and a restaurant. Their philosophy revolves around providing top-quality, locally sourced, pasture-reared, free-range meat products and the finest charcuterie, drawing inspiration from European butcheries.`,
       `Beyond their premium meat counter, which includes dry-aged options, they emphasize sustainable seafood, offering seasonal live oysters, mussels, and crayfish that can be prepared á la minute or packed for convenience. Vegetables are sourced from farms adhering to organic principles.`,
