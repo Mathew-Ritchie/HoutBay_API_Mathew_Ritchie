@@ -369,7 +369,7 @@ const establishments = [
     email: null,
     website: "https://www.clicks.co.za",
     rating: 2.7,
-    imageUrl: "https://pargo.co.za/wp-content/uploads/2022/09/Top-PUP-blog-image-format.png",
+    imageUrl: "/clicks.png",
     Description: "",
   },
   {
@@ -384,8 +384,7 @@ const establishments = [
     email: "rxwheelers@mweb.co.za",
     website: "https://www.wheelerspharmacy.com/",
     rating: 3.8,
-    imageUrl:
-      "https://images.squarespace-cdn.com/content/v1/5ea6b27006ea3b72b5d608f9/1587986162644-0C3KPY51FTN2FY9224BC/WheelersBG1.png",
+    imageUrl: "/wheelers.webp",
     Description: "",
   },
   {
@@ -400,8 +399,7 @@ const establishments = [
     email: "rxsentinel@mweb.co.za",
     website: "https://www.wheelerspharmacy.com/general-6",
     rating: 4.1,
-    imageUrl:
-      "https://www.club790businessdirectory.co.za/wp-content/uploads/2020/07/Sentinal-Pharmacy-image-2.jpg",
+    imageUrl: "/sentinal_pharmacy.jpg",
     Description: "",
   },
   {
@@ -416,8 +414,7 @@ const establishments = [
     email: "info@worldofbirds.co.za",
     website: "https://worldofbirds.co.za/",
     rating: 4.2,
-    imageUrl:
-      "https://i.ytimg.com/vi/3M8TqVrBeoA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB_FG29yO0OSkkCcSEMEavCYOldIA",
+    imageUrl: "/world_of_birds/jpg",
     Description: "",
   },
   {
@@ -448,7 +445,7 @@ const establishments = [
     email: null,
     website: null,
     rating: null,
-    imageUrl: "https://www.capetown.travel/wp-content/uploads/Beach-in-hout-bay.jpg",
+    imageUrl: "/beach_hout_bay.jpg",
     Description: "",
   },
   {
@@ -463,8 +460,7 @@ const establishments = [
     email: null,
     website: null,
     rating: null,
-    imageUrl:
-      "https://www.booknow.co.za/storage/app/uploads/public/67f/ce4/518/67fce45185b07655963955.jpg",
+    imageUrl: "/sandy_bay.jpg",
     Description: "",
   },
   {
@@ -479,8 +475,7 @@ const establishments = [
     email: null,
     website: null,
     rating: null,
-    imageUrl:
-      "https://secretcapetown.co.za/wp-content/uploads/2022/01/Llandudno-Beach-Sunny-Day.jpg",
+    imageUrl: "/llandudno_beach.webp",
     Description: "",
   },
   {
@@ -495,7 +490,7 @@ const establishments = [
     email: "info@chapmanspeakdrive.co.za",
     website: "https://www.chapmanspeakdrive.co.za/",
     rating: null,
-    imageUrl: "https://bicyclesouth.co.za/wp-content/uploads/2018/05/cycle-tour-364-3.jpg",
+    imageUrl: "/chapmans_peak_drive.jpg",
     Description: "",
   },
   {
@@ -510,7 +505,7 @@ const establishments = [
     email: "info@chapmanspeakdrive.co.za",
     website: "https://www.chapmanspeakdrive.co.za/",
     rating: null,
-    imageUrl: "https://daytrippers.co.za/wp-content/uploads/2018/10/Hout-Bay-Harbour.png",
+    imageUrl: "/hout_bay_harbour.png",
     Description: "",
   },
   {
@@ -525,8 +520,7 @@ const establishments = [
     email: "info@animalocean.co.za",
     website: "https://www.animalocean.co.za/",
     rating: null,
-    imageUrl:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMpr0CKggUYUrRiEjTMH-Xb-NyuwGcmgZwvw&s",
+    imageUrl: "/animal_ocean.png",
     Description: "",
   },
   {
@@ -541,7 +535,7 @@ const establishments = [
     email: "hello@drumbeatcharters.co.za",
     website: "https://www.animalocean.co.za/",
     rating: 4.4,
-    imageUrl: "https://drumbeatcharters.co.za/wp-content/uploads/2024/10/drumbeat-vessel.jpg",
+    imageUrl: "/drumbeat_charters.png",
     Description: "",
   },
   {
@@ -556,8 +550,7 @@ const establishments = [
     email: null,
     website: "https://karbonkelbergtourism.co.za/",
     rating: 5,
-    imageUrl:
-      "https://www.chapmanspeakdrive.co.za/media/k2/items/cache/77e3798bb9782084333898c5f75d9aab_XL.jpg",
+    imageUrl: "/karbonkelberg_tourism.jpg",
     Description: "",
   },
 ];
