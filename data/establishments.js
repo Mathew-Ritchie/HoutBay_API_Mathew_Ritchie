@@ -415,7 +415,14 @@ const establishments = [
     website: "https://worldofbirds.co.za/",
     rating: 4.2,
     imageUrl: "/world_of_birds.jpeg",
-    Description: "",
+    Description: `World of Birds in Hout Bay is one of Africa’s largest bird parks and a 
+    must-visit for nature lovers. Home to over 3,000 birds across more than 400 species,
+     as well as small mammals like monkeys, meerkats, and porcupines, it offers an 
+     immersive wildlife experience for visitors of all ages. The park features walk-through
+      aviaries, lush gardens, and interactive feeding sessions, allowing guests to get 
+      up close to exotic and indigenous species. Nestled in a scenic setting with the
+       backdrop of Table Mountain and Hout Bay, World of Birds combines education,
+        conservation, and family-friendly fun, making it a top attraction in Cape Town.`,
   },
   {
     id: "a2",
@@ -431,7 +438,14 @@ const establishments = [
     rating: 4.4,
     imageUrl: "/bay_harbour_market.jpg",
     imageCredit: "Image from Bay Harbour Market",
-    Description: "",
+    Description: `The Bay Harbour Market in Hout Bay is a vibrant, must-visit destination
+     for locals and tourists alike. Set in a lively, eclectic space near the harbour,
+      the market showcases a diverse mix of artisanal crafts, unique gifts, and handmade
+       jewellery, alongside an array of global cuisine from food stalls and pop-up eateries.
+        Live music and entertainment create a festive atmosphere, making it a social hotspot
+         as well as a shopping destination. With stunning views of Hout Bay Harbour and the
+          surrounding mountains, the market perfectly combines culture, creativity, and
+          community, offering visitors an authentic taste of Cape Town’s local life.`,
   },
   {
     id: "a3",
@@ -446,7 +460,15 @@ const establishments = [
     website: null,
     rating: null,
     imageUrl: "/beach_hout_bay.jpg",
-    Description: "",
+    Description: `Hout Bay Beach is a long, sweeping stretch of golden sand framed
+     by mountains and the picturesque Hout Bay Harbour. Popular with locals and
+      visitors alike, it’s ideal for leisurely walks, beach picnics, and horse riding 
+      along the shoreline. The calm bay waters make it great for kayaking, 
+      paddleboarding, and swimming, while the surrounding views of Chapman’s
+       Peak and the Sentinel create a stunning backdrop. Families love its relaxed
+        atmosphere and easy access to nearby cafés and restaurants. With its mix of
+         natural beauty and coastal charm, Hout Bay Beach offers one of Cape Town’s
+          most scenic seaside escapes.`,
   },
   {
     id: "a4",
@@ -461,7 +483,16 @@ const establishments = [
     website: null,
     rating: null,
     imageUrl: "/sandy_bay.jpeg",
-    Description: "",
+    Description: `Sandy Bay is one of Cape Town’s most secluded and beautiful beaches, 
+      tucked between Llandudno and the Karbonkelberg mountains. Known for its 
+      pristine white sand, dramatic rock formations, and crystal-clear Atlantic 
+      waters, it offers a peaceful escape from the city. Accessible only by a 
+      scenic walk through coastal fynbos, the journey adds to its sense of
+       exclusivity. Sandy Bay is also South Africa’s only unofficial nudist
+        beach, attracting both locals and visitors seeking a relaxed, natural 
+        atmosphere. With breathtaking sunsets and a tranquil setting, it’s a
+         hidden gem for those looking to experience Cape Town’s wilder,
+          untouched coastline.`,
   },
   {
     id: "a5",
@@ -476,7 +507,15 @@ const establishments = [
     website: null,
     rating: null,
     imageUrl: "/llandudno_beach.webp",
-    Description: "",
+    Description: `Llandudno Beach is one of Cape Town’s most picturesque coastal gems, 
+    nestled beneath the Twelve Apostles mountains. Surrounded by large granite
+     boulders and backed by luxury homes, it offers soft white sand and striking 
+     turquoise waters ideal for sunbathing, beach games, and photography. The beach
+      is popular with surfers for its powerful waves, though the cold Atlantic water
+       keeps it refreshingly quiet compared to busier spots. With no shops or
+        restaurants nearby, Llandudno retains a peaceful, unspoiled charm. Its
+         breathtaking sunsets and tranquil beauty make it a favourite spot for
+          locals and visitors seeking a serene coastal escape.`,
   },
   {
     id: "a6",
@@ -491,7 +530,16 @@ const establishments = [
     website: "https://www.chapmanspeakdrive.co.za/",
     rating: null,
     imageUrl: "/chapmans_peak_drive.jpg",
-    Description: "",
+    Description: `Chapman’s Peak Drive is one of the world’s most breathtaking
+      coastal routes, winding along the cliffs between Hout Bay and Noordhoek on
+      Cape Town’s Atlantic Coast. Carved into the mountainside, the road offers
+      spectacular panoramic views of the ocean, rugged cliffs, and dramatic mountain 
+      scenery. Known locally as “Chappies,” it’s a favourite for scenic drives, 
+      cycling, and sunset picnics. With several lookout points along its 9-kilometre
+      stretch, it’s perfect for photography and whale watching in season.
+      Combining engineering brilliance with natural beauty, Chapman’s Peak Drive
+      is an iconic Cape Town experience that captures the essence of the Cape
+      Peninsula’s wild charm.`,
   },
   {
     id: "a7",
@@ -506,7 +554,15 @@ const establishments = [
     website: "https://www.chapmanspeakdrive.co.za/",
     rating: null,
     imageUrl: "/hout_bay_harbour.jpeg",
-    Description: "",
+    Description: `Hout Bay Harbour is a vibrant and historic seaside attraction
+     nestled at the foot of the Sentinel Peak in Cape Town. Originally a small
+      fishing harbour, it has grown into a lively hub where visitors can enjoy a 
+      mix of local culture, fresh seafood, and ocean adventures. The harbour is home
+       to colourful fishing boats, bustling markets, and the popular Bay Harbour 
+       Market, offering local crafts, music, and food. Boat trips to Seal Island
+        and deep-sea fishing excursions depart daily, adding to its appeal.
+         Surrounded by stunning mountain and ocean views, Hout Bay Harbour
+          perfectly blends charm, activity, and natural beauty.`,
   },
   {
     id: "a8",
@@ -521,7 +577,15 @@ const establishments = [
     website: "https://www.animalocean.co.za/",
     rating: null,
     imageUrl: "/animal_ocean.jpeg",
-    Description: "",
+    Description: `Animal Ocean Ocean Safaris, based in Hout Bay, offers unforgettable marine
+     adventures along Cape Town’s stunning coastline. Specializing in boat tours, the safaris
+      allow visitors to experience the ocean up close, with opportunities to see seals, 
+      dolphins, whales, and even penguins in their natural habitats. Guided by experienced 
+      marine specialists, the tours combine wildlife spotting with fascinating insights into
+       marine ecology and conservation. Whether it’s a scenic cruise along Hout Bay, a seal
+        island visit, or a seasonal whale-watching expedition, Animal Ocean Ocean Safaris
+         delivers a thrilling and educational experience, making it a top choice for ocean 
+         lovers visiting Cape Town.`,
   },
   {
     id: "a9",
@@ -536,7 +600,15 @@ const establishments = [
     website: "https://www.animalocean.co.za/",
     rating: 4.4,
     imageUrl: "/drumbeat_charters.png",
-    Description: "",
+    Description: `Drumbeat Charters in Hout Bay offers an unforgettable maritime experience along
+     Cape Town’s stunning coastline. Operating from the harbour, their scenic cruises take visitors 
+     to Duiker Island, home to thousands of wild Cape Fur Seals, and along the dramatic cliffs of
+      Chapman’s Peak. Options include relaxed sightseeing trips, high-speed eco-adventures, and 
+      special excursions to shipwrecks, all guided by knowledgeable staff. The purpose-built 
+      vessel is safe, comfortable, and family-friendly, with indoor and outdoor seating. Combining 
+      wildlife encounters, breathtaking ocean views, and the thrill of the Atlantic, Drumbeat
+       Charters is a must-visit attraction for anyone seeking adventure and natural beauty in
+        Cape Town.`,
   },
   {
     id: "a10",
@@ -551,7 +623,14 @@ const establishments = [
     website: "https://karbonkelbergtourism.co.za/",
     rating: 5,
     imageUrl: "/karbonkelberg_tourism.jpg",
-    Description: "",
+    Description: `Karbonkelberg Tourism in Hout Bay offers an immersive blend of adventure, nature, 
+    and local culture. Specializing in guided hikes, sea‑kayaking, and coastal explorations, the
+     tours take visitors through the dramatic Karbonkelberg mountains, The Sentinel, and along
+      Cape Town’s stunning coastline. Guests enjoy breathtaking views, wildlife spotting, and 
+      hands-on experiences with the local fishing community, including food tastings and craft 
+      interactions. Tailored for varying fitness levels, the excursions combine education, outdoor
+       adventure, and cultural insight. With expert guides, safe routes, and unforgettable scenery,
+        Karbonkelberg Tourism provides a unique way to explore Hout Bay’s natural beauty and heritage.`,
   },
 ];
 
