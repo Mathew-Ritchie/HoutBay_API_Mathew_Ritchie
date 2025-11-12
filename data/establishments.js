@@ -369,7 +369,7 @@ const establishments = [
     email: null,
     website: "https://www.clicks.co.za",
     rating: 2.7,
-    imageUrl: "/clicks.png",
+    imageUrl: "/clicks.jpeg",
     Description: "",
   },
   {
@@ -414,7 +414,7 @@ const establishments = [
     email: "info@worldofbirds.co.za",
     website: "https://worldofbirds.co.za/",
     rating: 4.2,
-    imageUrl: "/world_of_birds.jpg",
+    imageUrl: "/world_of_birds.jpeg",
     Description: "",
   },
   {
@@ -460,7 +460,7 @@ const establishments = [
     email: null,
     website: null,
     rating: null,
-    imageUrl: "/sandy_bay.jpg",
+    imageUrl: "/sandy_bay.jpeg",
     Description: "",
   },
   {
@@ -505,7 +505,7 @@ const establishments = [
     email: "info@chapmanspeakdrive.co.za",
     website: "https://www.chapmanspeakdrive.co.za/",
     rating: null,
-    imageUrl: "/hout_bay_harbour.png",
+    imageUrl: "/hout_bay_harbour.jpeg",
     Description: "",
   },
   {
@@ -520,7 +520,7 @@ const establishments = [
     email: "info@animalocean.co.za",
     website: "https://www.animalocean.co.za/",
     rating: null,
-    imageUrl: "/animal_ocean.png",
+    imageUrl: "/animal_ocean.jpeg",
     Description: "",
   },
   {
