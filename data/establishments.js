@@ -414,7 +414,7 @@ const establishments = [
     email: "info@worldofbirds.co.za",
     website: "https://worldofbirds.co.za/",
     rating: 4.2,
-    imageUrl: "/world_of_birds/jpg",
+    imageUrl: "/world_of_birds.jpg",
     Description: "",
   },
   {
