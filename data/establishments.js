@@ -451,84 +451,9 @@ const establishments = [
           community, offering visitors an authentic taste of Cape Town’s local life.`,
     ],
   },
+
   {
     id: "a3",
-    name: "Hout Bay Beach",
-    tradingHours: null,
-    location: null,
-    address: null,
-    category: ["Beach", "Swimming", "Walking"],
-    type: "attractions",
-    phoneNumber: null,
-    email: null,
-    website: null,
-    rating: null,
-    imageUrl: "/beach_hout_bay.jpg",
-    description: [
-      `Hout Bay Beach is a long, sweeping stretch of golden sand framed
-     by mountains and the picturesque Hout Bay Harbour. Popular with locals and
-      visitors alike, it’s ideal for leisurely walks, beach picnics, and horse riding 
-      along the shoreline. The calm bay waters make it great for kayaking, 
-      paddleboarding, and swimming, while the surrounding views of Chapman’s
-       Peak and the Sentinel create a stunning backdrop. Families love its relaxed
-        atmosphere and easy access to nearby cafés and restaurants. With its mix of
-         natural beauty and coastal charm, Hout Bay Beach offers one of Cape Town’s
-          most scenic seaside escapes.`,
-    ],
-  },
-  {
-    id: "a4",
-    name: "Sandy Bay Beach",
-    tradingHours: null,
-    location: null,
-    address: null,
-    category: ["Beach", "Swimming", "Walking"],
-    type: "attractions",
-    phoneNumber: null,
-    email: null,
-    website: null,
-    rating: null,
-    imageUrl: "/sandy_bay.jpeg",
-    description: [
-      `Sandy Bay is one of Cape Town’s most secluded and beautiful beaches, 
-      tucked between Llandudno and the Karbonkelberg mountains. Known for its 
-      pristine white sand, dramatic rock formations, and crystal-clear Atlantic 
-      waters, it offers a peaceful escape from the city. Accessible only by a 
-      scenic walk through coastal fynbos, the journey adds to its sense of
-       exclusivity. Sandy Bay is also South Africa’s only unofficial nudist
-        beach, attracting both locals and visitors seeking a relaxed, natural 
-        atmosphere. With breathtaking sunsets and a tranquil setting, it’s a
-         hidden gem for those looking to experience Cape Town’s wilder,
-          untouched coastline.`,
-    ],
-  },
-  {
-    id: "a5",
-    name: "Llandudno Beach",
-    tradingHours: null,
-    location: null,
-    address: null,
-    category: ["Beach", "Swimming", "Walking"],
-    type: "attractions",
-    phoneNumber: null,
-    email: null,
-    website: null,
-    rating: null,
-    imageUrl: "/llandudno_beach.webp",
-    description: [
-      `Llandudno Beach is one of Cape Town’s most picturesque coastal gems, 
-    nestled beneath the Twelve Apostles mountains. Surrounded by large granite
-     boulders and backed by luxury homes, it offers soft white sand and striking 
-     turquoise waters ideal for sunbathing, beach games, and photography. The beach
-      is popular with surfers for its powerful waves, though the cold Atlantic water
-       keeps it refreshingly quiet compared to busier spots. With no shops or
-        restaurants nearby, Llandudno retains a peaceful, unspoiled charm. Its
-         breathtaking sunsets and tranquil beauty make it a favourite spot for
-          locals and visitors seeking a serene coastal escape.`,
-    ],
-  },
-  {
-    id: "a6",
     name: "Chapman's peak drive",
     tradingHours: null,
     location: null,
@@ -554,7 +479,7 @@ const establishments = [
     ],
   },
   {
-    id: "a7",
+    id: "a4",
     name: "Hout Bay Harbour",
     tradingHours: null,
     location: null,
@@ -579,7 +504,7 @@ const establishments = [
     ],
   },
   {
-    id: "a8",
+    id: "a5",
     name: "Animal Ocean",
     tradingHours: null,
     location: null,
@@ -604,7 +529,7 @@ const establishments = [
     ],
   },
   {
-    id: "a9",
+    id: "a6",
     name: "Drumbeat Charters",
     tradingHours: null,
     location: null,
@@ -629,7 +554,7 @@ const establishments = [
     ],
   },
   {
-    id: "a10",
+    id: "a7",
     name: "Karbonkelberg Tourism",
     tradingHours: "Mon-Fri 09:00-17:00, Sat-Sun 09:00-12:00",
     location: null,
@@ -650,6 +575,82 @@ const establishments = [
       interactions. Tailored for varying fitness levels, the excursions combine education, outdoor
        adventure, and cultural insight. With expert guides, safe routes, and unforgettable scenery,
         Karbonkelberg Tourism provides a unique way to explore Hout Bay’s natural beauty and heritage.`,
+    ],
+  },
+  {
+    id: "b1",
+    name: "Hout Bay Beach",
+    tradingHours: null,
+    location: null,
+    address: null,
+    category: ["Beach", "Swimming", "Walking"],
+    type: "beaches",
+    phoneNumber: null,
+    email: null,
+    website: null,
+    rating: null,
+    imageUrl: "/beach_hout_bay.jpg",
+    description: [
+      `Hout Bay Beach is a long, sweeping stretch of golden sand framed
+     by mountains and the picturesque Hout Bay Harbour. Popular with locals and
+      visitors alike, it’s ideal for leisurely walks, beach picnics, and horse riding 
+      along the shoreline. The calm bay waters make it great for kayaking, 
+      paddleboarding, and swimming, while the surrounding views of Chapman’s
+       Peak and the Sentinel create a stunning backdrop. Families love its relaxed
+        atmosphere and easy access to nearby cafés and restaurants. With its mix of
+         natural beauty and coastal charm, Hout Bay Beach offers one of Cape Town’s
+          most scenic seaside escapes.`,
+    ],
+  },
+  {
+    id: "b2",
+    name: "Sandy Bay Beach",
+    tradingHours: null,
+    location: null,
+    address: null,
+    category: ["Beach", "Swimming", "Walking"],
+    type: "beaches",
+    phoneNumber: null,
+    email: null,
+    website: null,
+    rating: null,
+    imageUrl: "/sandy_bay.jpeg",
+    description: [
+      `Sandy Bay is one of Cape Town’s most secluded and beautiful beaches, 
+      tucked between Llandudno and the Karbonkelberg mountains. Known for its 
+      pristine white sand, dramatic rock formations, and crystal-clear Atlantic 
+      waters, it offers a peaceful escape from the city. Accessible only by a 
+      scenic walk through coastal fynbos, the journey adds to its sense of
+       exclusivity. Sandy Bay is also South Africa’s only unofficial nudist
+        beach, attracting both locals and visitors seeking a relaxed, natural 
+        atmosphere. With breathtaking sunsets and a tranquil setting, it’s a
+         hidden gem for those looking to experience Cape Town’s wilder,
+          untouched coastline.`,
+    ],
+  },
+  {
+    id: "b3",
+    name: "Llandudno Beach",
+    tradingHours: null,
+    location: null,
+    address: null,
+    category: ["Beach", "Swimming", "Walking"],
+    type: "beaches",
+    phoneNumber: null,
+    email: null,
+    website: null,
+    rating: null,
+    imageUrl: "/llandudno_beach.webp",
+    description: [
+      `Llandudno Beach is one of Cape Town’s most picturesque coastal gems, 
+    nestled beneath the Twelve Apostles mountains. Surrounded by large granite
+     boulders and backed by luxury homes, it offers soft white sand and striking 
+     turquoise waters ideal for sunbathing, beach games, and photography. The beach
+      is popular with surfers for its powerful waves, though the cold Atlantic water
+       keeps it refreshingly quiet compared to busier spots. With no shops or
+        restaurants nearby, Llandudno retains a peaceful, unspoiled charm. Its
+         breathtaking sunsets and tranquil beauty make it a favourite spot for
+          locals and visitors seeking a serene coastal escape.`,
     ],
   },
 ];
