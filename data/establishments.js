@@ -1,4 +1,5 @@
 const establishments = [
+  //Restaurants -----------------------------------------------------------------------------------------
   {
     id: "r1",
     name: "Mariner's Wharf",
@@ -357,6 +358,7 @@ const establishments = [
       `The restaurant, with its stylish yet comfortable ambiance, offers a diverse menu that goes beyond just meat. While their steaks (including Wagyu and various cuts prepared on a hot stone at your table) and gourmet burgers are highlights, they also serve light meals, salads, and have a selection of Belgian-inspired dishes like bitterballen. They pride themselves on attentive service and a welcoming environment, making it a popular spot for both meat connoisseurs and those seeking fresh, quality ingredients in a sophisticated setting.`,
     ],
   },
+  //Health care -----------------------------------------------------------------------------------------
   {
     id: "p1",
     name: "Clicks Pharmacy Hout Bay",
@@ -402,6 +404,7 @@ const establishments = [
     imageUrl: "/sentinal_pharmacy.jpg",
     description: "",
   },
+  //Attractions -----------------------------------------------------------------------------------------
   {
     id: "a1",
     name: "World of Birds Wildlife Sanctuary & Monkey Park",
@@ -577,6 +580,8 @@ const establishments = [
         Karbonkelberg Tourism provides a unique way to explore Hout Bay’s natural beauty and heritage.`,
     ],
   },
+
+  //Beaches -----------------------------------------------------------------------------------------
   {
     id: "b1",
     name: "Hout Bay Beach",
